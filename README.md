@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayushi63Rathi
-- 👀 I’m interested in Data SCience
-- 🌱 I’m currently learning Machine Learning,Deep Learning and Computer Vision
+- 👀 I’m interested in Data SCience and Web Designing & Development
+- 🌱 I’m currently learning JavaScript, Machine Learning,Deep Learning and Computer Vision & UI/UX Designing
 - 💞️ I’m looking to collaborate on Artificial Intelligence Projects
 - 📫 How to reach me ...
 Email:aayushirathi0635@gmail.com
